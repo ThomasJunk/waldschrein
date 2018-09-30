@@ -1,0 +1,4 @@
+= Waldschrein
+
+Ein Universal-Abenteuer für Einsteiger.
+Inspiriert durch https://en.wikipedia.org/wiki/Old_School_Revival[OSR]

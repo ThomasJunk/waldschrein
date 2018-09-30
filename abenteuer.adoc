@@ -2,6 +2,7 @@
 Autor Thomas Junk
 :toc: left
 
+.OSR logo by Stuart Robertson
 image::osrlogo.png[]
 
 
@@ -30,6 +31,7 @@ Ein plötzlich einsetzender Regenschauer lässt die Spieler Zuflucht in der
 Ruine suchen.
 
 == Der Waldschrein
+.Karte
 image::schrein.png[Schrein]
 
 === Raum 1
@@ -47,29 +49,31 @@ Im Schacht befindet sich eine Leiter, mit der sie in das Gewölbe unter dem Schr
 
 === Raum 2
 
-Dieser Raum beherbergt nichts weiter außer ein paar alten Fässern und drei alten Kisten.
-Die Fässer sind größtenteils leer und manche zerstört. In manchen, noch vollen Fässern befindet sich alter, ungenießbarer Wein.
-In einer der Truhen befinden sich ein altes zerrissenes Gewand und ein unglücksverheißender Ring.
-Der Spieler ahnt etwas, wenn er den Ring aufsetzt.
+Dieser Raum beherbergt nichts weiter außer ein paar Fässern und drei alten Kisten.
+Die Fässer sind größtenteils leer und manche zerstört. In den noch vollen Fässern befindet sich ungenießbarer Wein.
+In einer der Truhen befinden sich ein zerrissenes Gewand und ein unglücksverheißender Ring.
+Der Spieler ahnt, dass der Ring magisch sein könnte, wenn er ihn aufsetzt.
 
 === Raum 3
 
 Noch bevor sie den Raum betreten, hören die Spieler Wasser plätschern.
-Der Grund ist das Regenwasser, das als Sickerwasser die Wände entlang rinnt und sich auf
-dem steinernen Fußboden sammelt. Die Decke ist teilweise eingebrochen, was von außen schwer 
-zu erkennen ist. Die Spieler treffen hier auf ihre nächste Herausforderung: 
-Ein Tatzelwurm ist durch die Decke gestürzt und ist seit dem hier unten gefangen.
+Der Grund ist das Regenwasser, das als Sickerwasser die Wände entlang rinnt.
+Die Gewölbedecke ist im hinteren Teil eingebrochen. Dort tropft der Regen durch.
+Der Fußboden ist etwas mehr als handbreit mit Wasser befüllt.
+
+Die Spieler treffen hier auf ihre nächste Herausforderung: 
+Ein Tatzelwurm ist durch die Decke gestürzt und seit dem hier unten gefangen.
 
 === Raum 4
 
 IMPORTANT: Bevor die Spieler Raum 4 betreten, erleben sie eine unsanfte Überraschung. Durch einen 
 magischen Mechanismus wird ein Alarmsystem aktiviert, bei dem (Gift-) Pfeile aus der Wand schießen.
 
-In Raum 4 befinden sich die Spieler in einer Grabkammer. Kurz bevor sie den Raum vollends betreten, kommt ihnen
-ein Priester-Skelett entgegen. Haben sie diese Herausforderung gemeistert, können sie beginnen, die Kammer zu untersuchen.
+In Raum 4 kommen die Spieler in eine Grabkammer. Kurz bevor sie den Raum vollends betreten, kommt ihnen
+ein Priester-Skelett entgegen. Ist diese Herausforderung gemeistert, können die Spieler beginnen, die Kammer zu untersuchen.
 Sollten die Spieler zu unvorsichtig sein, rutschen sie eine Falltreppe entlang nach Raum 3.
 
-NOTE: Nur durch die Geheimtür kann man nach Raum 5 gelangen.
+NOTE: Nur durch eine Geheimtür kann man nach Raum 5 gelangen.
 
 === Raum 5
 

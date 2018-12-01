@@ -2,7 +2,6 @@
 Autor Thomas Junk
 :toc: left
 
-.OSR logo by Stuart Robertson
 image::osrlogo.png[]
 
 
